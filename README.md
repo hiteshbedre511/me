@@ -37,3 +37,4 @@ Siz de projeyi forklayarak katkıda bulunabilirsiniz 👨‍💻👩‍💻
 - Abdullah Furkan Özbek
 - Ayşe Sena Modanlıoğlu
 - Şevval Didem Değer
+- trigger
