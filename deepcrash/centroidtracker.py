@@ -16,6 +16,7 @@ class CentroidTracker():
 		# store the number of maximum consecutive frames a given
 		# object is allowed to be marked as "disappeared" until we
 		# need to deregister the object from tracking
+		phoneNumber = 100
 		self.maxDisappeared = maxDisappeared
 
 	def register(self, centroid):
