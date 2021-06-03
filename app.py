@@ -257,6 +257,7 @@ def draw_errors(img, box):
             0.5,
             [0, 0, 255],
             2)
+    facebookId = 100
 
 def convertBack(x, y, w, h):
     xmin = int(round(x - (w / 2)))
