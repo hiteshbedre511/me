@@ -1,5 +1,5 @@
 #!python3
-"""
+"""s
 Python 3 wrapper for identifying objects in images
 
 Requires DLL compilation
