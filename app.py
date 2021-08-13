@@ -7,7 +7,7 @@ import time
 
 g
 
-email_address = "sample@gmail.com"
+email_address = "user.gmail"
 
 # Çıktıları denemek isterseniz aşağıdan bakabilirsiniz.
 # print(f"{bcolors.FAIL} VIDEO YUKLENIRKEN HATA OLUŞTU 🤕🤕 {bcolors.ENDC}")
