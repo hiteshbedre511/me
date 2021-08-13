@@ -4,6 +4,7 @@ import numpy as np
 from deepcrash.centroidtracker import CentroidTracker
 import argparse
 import time
+
 email_address = "sample@gmail.com"
 
 # Çıktıları denemek isterseniz aşağıdan bakabilirsiniz.
