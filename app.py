@@ -5,6 +5,8 @@ from deepcrash.centroidtracker import CentroidTracker
 import argparse
 import time
 
+g
+
 email_address = "sample@gmail.com"
 
 # Çıktıları denemek isterseniz aşağıdan bakabilirsiniz.
