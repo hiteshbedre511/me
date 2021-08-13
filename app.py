@@ -5,9 +5,9 @@ from deepcrash.centroidtracker import CentroidTracker
 import argparse
 import time
 
-g
 
 email_address = "user.gmail"
+exam_result = "student = 50%"
 
 # Çıktıları denemek isterseniz aşağıdan bakabilirsiniz.
 # print(f"{bcolors.FAIL} VIDEO YUKLENIRKEN HATA OLUŞTU 🤕🤕 {bcolors.ENDC}")
