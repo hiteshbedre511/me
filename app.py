@@ -6,9 +6,6 @@ import argparse
 import time
 
 
-email_address = "user.gmail"
-exam_result = "student = 50%"
-
 # Çıktıları denemek isterseniz aşağıdan bakabilirsiniz.
 # print(f"{bcolors.FAIL} VIDEO YUKLENIRKEN HATA OLUŞTU 🤕🤕 {bcolors.ENDC}")
 # print(f"{bcolors.OKBLUE} SUCCESSFULLY INSTALLED 🤕🤕 {bcolors.ENDC}")
